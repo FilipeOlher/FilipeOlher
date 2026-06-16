@@ -1,19 +1,19 @@
-<a href="https://harryschlorke.com" target="_blank">
-  <img src="Harry-Banner.png" alt="GitHub Banner" width="100%" />
+<a href="https://logicalsolution.com.br" target="_blank">
+  <img src="Filipe-Olher-Banner.png" alt="GitHub Banner" width="100%" />
 </a>
 
-# Hello World! I'm Harry, a Full-Stack Developer👋
+# Hello World! I'm Filipe, a Full-Stack Developer👋
 
 <table>
   <tr>
     <td width="35%">
-      <a href="https://harryschlorke.com" target="_blank">
-        <img src="Harry_Schlorke.gif" alt="GIF" width="350" />
+      <a href="https://logicalsolution.com.br" target="_blank">
+        <img src="FilipeOlher.gif" alt="GIF" width="350" />
       </a>
     </td>
     <td>
       <h4>
-        🌐 Acesse meu portfólio: <a href="https://harryschlorke.com" target="_blank">harryschlorke.com</a>
+        🌐 Acesse meu portfólio: <a href="https://logicalsolution.com.br" target="_blank">logicalsolution.com.br</a>
         <br/><br/>
         🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/><br/>
         💻 Criador de sistemas com interfaces refinadas e escaláveis.<br/><br/>
@@ -28,14 +28,14 @@
       Mais que escrever código, <b>entrego soluções que funcionam, encantam e geram resultado</b>.
       Meu diferencial não está só na técnica, mas na estratégia: atuo com visão de produto, foco em performance e estética refinada. <br/><br/>
       📩 <b>Vamos criar algo grandioso?</b> Entre em contato ou acompanhe meu trabalho nas redes abaixo:<br/><br/>
-      <a href="https://behance.net/harryschlorke" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" /></a>
-      <a href="https://discord.gg/harryschlorke" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
-      <a href="https://facebook.com/HCSchlorke" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
-      <a href="https://instagram.com/harryschlorke" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-      <a href="https://linkedin.com/in/harry-schlorke" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <a href="https://x.com/HarrySchlorke" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
-      <a href="https://youtube.com/@www.youtube.com/@TI.harryschlorke" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
-      <a href="mailto:ti@harryschlorke.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+      <a href="https://behance.net/harryFilipeOlher" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" /></a>
+      <a href="https://discord.gg/harryFilipeOlher" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+      <a href="https://facebook.com/HCFilipeOlher" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
+      <a href="https://instagram.com/harryFilipeOlher" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+      <a href="https://linkedin.com/in/harry-FilipeOlher" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://x.com/HarryFilipeOlher" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+      <a href="https://youtube.com/@www.youtube.com/@TI.harryFilipeOlher" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
+      <a href="mailto:ti@logicalsolution.com.br" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
     </td>
   </tr>
 </table>
@@ -158,7 +158,7 @@
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schlorke&theme=monokai" alt="Profile Details" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schlorke&theme=monokai" alt="Top Languages" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schlorke&theme=monokai" alt="Most Commit Language" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schlorke&theme=monokai" alt="GitHub Stats" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schlorke&theme=monokai&utcOffset=8" alt="Productive Time" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilipeOlher&theme=monokai" alt="Profile Details" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilipeOlher&theme=monokai" alt="Top Languages" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilipeOlher&theme=monokai" alt="Most Commit Language" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FilipeOlher&theme=monokai" alt="GitHub Stats" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FilipeOlher&theme=monokai&utcOffset=8" alt="Productive Time" />
 
 </div>
 
@@ -168,7 +168,7 @@
 
 </div>
 
-![](https://github-profile-trophy-fork-two.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&title=-Issues)
+![](https://github-profile-trophy-fork-two.vercel.app/?username=FilipeOlher&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&title=-Issues)
 
 ---
 
@@ -183,9 +183,9 @@
 _Uma jornada visual através das minhas contribuições de código, onde cada quadrado representa um dia de dedicação ao código, criatividade e aprendizado contínuo._
 <picture>
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FilipeOlher/FilipeOlher/main/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FilipeOlher/FilipeOlher/main/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FilipeOlher/FilipeOlher/main/output/github-snake-dark.svg" />
 </picture>
 
 <sup>✨ Esta animação é gerada automaticamente a partir do meu gráfico de contribuições do GitHub usando [snk](https://github.com/Platane/snk) - atualizando diariamente para refletir minha atividade de código em tempo real!</sup>
